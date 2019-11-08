@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Portfolio of Michel LeBlond]]></title><description><![CDATA[Portfolio of Michel LeBlond]]></description><link>https://michelleblond.github.io/gatsbylumen</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Nov 2019 00:24:19 GMT</lastBuildDate><item><title><![CDATA[Urban Aboriginal Ministry]]></title><description><![CDATA[ The Urban Aboriginal Ministry is a ministry of St. Mary Magdelene Anglican Church and supports Prayer Circles, Four Annual Feasts: Easter, Thanksgiving, Winterfest, and Christmas, Traditional as well as Ceremonies and Pastoral Care.]]></description><link>https://michelleblond.github.io/gatsbylumen/posts/urban-aboriginal-ministry/</link><guid isPermaLink="false">https://michelleblond.github.io/gatsbylumen/posts/urban-aboriginal-ministry/</guid><pubDate>Thu, 07 Nov 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;The  Urban Aboriginal Ministry is a ministry of the Anglican Parish of St. Mary Magdalene in the Greater Vancouver Area to the First Nations people and their loved ones. The Ministry provide medicine wheel circles with smudging for all occasions (on request) and cultural funerals and weddings. It hosts Annual Feasts on Christmas, Easter and Thanksgiving. They also provide cultural gatherings where they teach arts &amp;#x26; crafts such as drum making to restore the traditional ancestral teachings. The UAM responds to calls for practical needs such as food, furniture, clothing and transportation.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Portfolio of Michel LeBlond]]></title><description><![CDATA[Portfolio of Michel LeBlond]]></description><link>https://michelleblond.github.io/gatsbylumen</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Nov 2019 00:57:57 GMT</lastBuildDate><item><title><![CDATA[Urban Aboriginal Ministry]]></title><description><![CDATA[ The Urban Aboriginal Ministry is a ministry of St. Mary Magdelene Anglican Church and supports Prayer Circles, Four Annual Feasts: Easter, Thanksgiving, Winterfest, and Christmas, Traditional as well as Ceremonies and Pastoral Care.]]></description><link>https://michelleblond.github.io/gatsbylumen/posts/urban-aboriginal-ministry/</link><guid isPermaLink="false">https://michelleblond.github.io/gatsbylumen/posts/urban-aboriginal-ministry/</guid><pubDate>Thu, 07 Nov 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;The  Urban Aboriginal Ministry is a ministry of the Anglican Parish of St. Mary Magdalene in the Greater Vancouver Area to the First Nations people and their loved ones. The Ministry provide medicine wheel circles with smudging for all occasions (on request) and cultural funerals and weddings. It hosts Annual Feasts on Christmas, Easter and Thanksgiving. They also provide cultural gatherings where they teach arts &amp;#x26; crafts such as drum making to restore the traditional ancestral teachings. The UAM responds to calls for practical needs such as food, furniture, clothing and transportation.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#digital-outreach&quot;&gt;Digital Outreach&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#executive-advisory-board-functions&quot;&gt;Executive Advisory Board Functions&lt;/a&gt;&lt;/li&gt;
@@ -20,7 +20,7 @@ I report on my role as the website administrator and provide back up for other b
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg&quot;
+    href=&quot;/gatsbylumen/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -31,22 +31,22 @@ I report on my role as the website administrator and provide back up for other b
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/88bb62809a91d62e13d6606243256147/01472/mainbanner.webp 240w,
-/static/88bb62809a91d62e13d6606243256147/222bd/mainbanner.webp 480w,
-/static/88bb62809a91d62e13d6606243256147/965c5/mainbanner.webp 600w&quot;
+          srcset=&quot;/gatsbylumen/static/88bb62809a91d62e13d6606243256147/01472/mainbanner.webp 240w,
+/gatsbylumen/static/88bb62809a91d62e13d6606243256147/222bd/mainbanner.webp 480w,
+/gatsbylumen/static/88bb62809a91d62e13d6606243256147/965c5/mainbanner.webp 600w&quot;
           sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/88bb62809a91d62e13d6606243256147/3bc27/mainbanner.jpg 240w,
-/static/88bb62809a91d62e13d6606243256147/98431/mainbanner.jpg 480w,
-/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg 600w&quot;
+          srcset=&quot;/gatsbylumen/static/88bb62809a91d62e13d6606243256147/3bc27/mainbanner.jpg 240w,
+/gatsbylumen/static/88bb62809a91d62e13d6606243256147/98431/mainbanner.jpg 480w,
+/gatsbylumen/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg 600w&quot;
           sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg&quot;
+          src=&quot;/gatsbylumen/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg&quot;
           alt=&quot;mainbanner.jpg&quot;
           title=&quot;mainbanner.jpg&quot;
           loading=&quot;lazy&quot;
@@ -67,7 +67,7 @@ Vancouver, BC&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg&quot;
+    href=&quot;/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -78,22 +78,22 @@ Vancouver, BC&lt;/p&gt;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/d5d2f416243ad5e2d409fe4c5d29de00/01472/winterfestposter2019.webp 240w,
-/static/d5d2f416243ad5e2d409fe4c5d29de00/222bd/winterfestposter2019.webp 480w,
-/static/d5d2f416243ad5e2d409fe4c5d29de00/09766/winterfestposter2019.webp 612w&quot;
+          srcset=&quot;/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/01472/winterfestposter2019.webp 240w,
+/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/222bd/winterfestposter2019.webp 480w,
+/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/09766/winterfestposter2019.webp 612w&quot;
           sizes=&quot;(max-width: 612px) 100vw, 612px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/d5d2f416243ad5e2d409fe4c5d29de00/3bc27/winterfestposter2019.jpg 240w,
-/static/d5d2f416243ad5e2d409fe4c5d29de00/98431/winterfestposter2019.jpg 480w,
-/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg 612w&quot;
+          srcset=&quot;/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/3bc27/winterfestposter2019.jpg 240w,
+/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/98431/winterfestposter2019.jpg 480w,
+/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg 612w&quot;
           sizes=&quot;(max-width: 612px) 100vw, 612px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg&quot;
+          src=&quot;/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg&quot;
           alt=&quot;winterfeast&quot;
           title=&quot;winterfeast&quot;
           loading=&quot;lazy&quot;
@@ -120,7 +120,7 @@ Vancouver, BC&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg&quot;
+    href=&quot;/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -131,22 +131,22 @@ Vancouver, BC&lt;/p&gt;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/01472/42-line-bible.webp 240w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/222bd/42-line-bible.webp 480w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/0cbce/42-line-bible.webp 800w&quot;
+          srcset=&quot;/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/01472/42-line-bible.webp 240w,
+/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/222bd/42-line-bible.webp 480w,
+/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/0cbce/42-line-bible.webp 800w&quot;
           sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/3bc27/42-line-bible.jpg 240w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/98431/42-line-bible.jpg 480w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg 800w&quot;
+          srcset=&quot;/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/3bc27/42-line-bible.jpg 240w,
+/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/98431/42-line-bible.jpg 480w,
+/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg 800w&quot;
           sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg&quot;
+          src=&quot;/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg&quot;
           alt=&quot;42-line-bible.jpg&quot;
           title=&quot;42-line-bible.jpg&quot;
           loading=&quot;lazy&quot;
@@ -185,7 +185,7 @@ Vancouver, BC&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/313cc/type-through-time.jpg&quot;
+    href=&quot;/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/313cc/type-through-time.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -196,24 +196,24 @@ Vancouver, BC&lt;/p&gt;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/01472/type-through-time.webp 240w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/222bd/type-through-time.webp 480w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/620b9/type-through-time.webp 960w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/6db13/type-through-time.webp 1250w&quot;
+          srcset=&quot;/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/01472/type-through-time.webp 240w,
+/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/222bd/type-through-time.webp 480w,
+/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/620b9/type-through-time.webp 960w,
+/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/6db13/type-through-time.webp 1250w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/3bc27/type-through-time.jpg 240w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/98431/type-through-time.jpg 480w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/b3ee8/type-through-time.jpg 960w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/313cc/type-through-time.jpg 1250w&quot;
+          srcset=&quot;/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/3bc27/type-through-time.jpg 240w,
+/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/98431/type-through-time.jpg 480w,
+/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/b3ee8/type-through-time.jpg 960w,
+/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/313cc/type-through-time.jpg 1250w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/b3ee8/type-through-time.jpg&quot;
+          src=&quot;/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/b3ee8/type-through-time.jpg&quot;
           alt=&quot;type-through-time.jpg&quot;
           title=&quot;type-through-time.jpg&quot;
           loading=&quot;lazy&quot;
