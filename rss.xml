@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Portfolio of Michel LeBlond]]></title><description><![CDATA[Portfolio of Michel LeBlond]]></description><link>https://michelleblond.github.io/gatsbylumen</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 09 Nov 2019 02:32:41 GMT</lastBuildDate><item><title><![CDATA[Google Cloud Platform]]></title><description><![CDATA[ Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube.]]></description><link>https://michelleblond.github.io/gatsbylumen/posts/google-cloud-platform/</link><guid isPermaLink="false">https://michelleblond.github.io/gatsbylumen/posts/google-cloud-platform/</guid><pubDate>Fri, 08 Nov 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 502px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/gatsbylumen/static/5f0b73c2a92dfa469705d74cf9960244/6f105/gcp.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 98.80478087649401%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAfTssRmalckEgf/EABsQAAIDAAMAAAAAAAAAAAAAAAECABARFCEi/9oACAEBAAEFAmY6fM5Ciupi0K//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAWEQADAAAAAAAAAAAAAAAAAAABIDH/2gAIAQIBAT8BET//xAAcEAABAwUAAAAAAAAAAAAAAAABABIxEBEgQVH/2gAIAQEABj8CJcb8TqSVtRh//8QAHhAAAgEDBQAAAAAAAAAAAAAAAAERITGREEFRYfH/2gAIAQEAAT8hQpDaNCUuN+x0TnKHEh4CZZMG7G0//9oADAMBAAIAAwAAABBPJ7z/xAAWEQEBAQAAAAAAAAAAAAAAAAABESD/2gAIAQMBAT8QVWuP/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREEH/2gAIAQIBAT8QSIinM//EAB4QAQACAgEFAAAAAAAAAAAAAAERIQBRMRBhgZGx/9oACAEBAAE/ECEK1pXZq53hQxAKJuUV4xFRPNJ8xS7eBwi2o2ZMEn0uFzbcZWWanp//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/5f0b73c2a92dfa469705d74cf9960244/01472/gcp.webp 240w,
+/gatsbylumen/static/5f0b73c2a92dfa469705d74cf9960244/222bd/gcp.webp 480w,
+/gatsbylumen/static/5f0b73c2a92dfa469705d74cf9960244/0bf37/gcp.webp 502w&quot;
+          sizes=&quot;(max-width: 502px) 100vw, 502px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/5f0b73c2a92dfa469705d74cf9960244/3bc27/gcp.jpg 240w,
+/gatsbylumen/static/5f0b73c2a92dfa469705d74cf9960244/98431/gcp.jpg 480w,
+/gatsbylumen/static/5f0b73c2a92dfa469705d74cf9960244/6f105/gcp.jpg 502w&quot;
+          sizes=&quot;(max-width: 502px) 100vw, 502px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/gatsbylumen/static/5f0b73c2a92dfa469705d74cf9960244/6f105/gcp.jpg&quot;
+          alt=&quot;gcp&quot;
+          title=&quot;gcp&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Much of my experience as a developer has involved moving code and installing software on actual machines located either locally or on racks in server farms.  GCP offers a completely different way of doing things. All of the hardware is provided by Google. Machines are abstracted into services that are accessed via a web interface or command line prompt.  I have studied GCP in depth and launched many projects. Included is a sampling that will increase in size as items are added.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#qwiklabs&quot;&gt;Qwiklabs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#moving-apps-to-gcp&quot;&gt;Moving Apps To GCP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#gsuite-proof-of-concept-app&quot;&gt;Gsuite Proof Of Concept App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#team-fortress-2&quot;&gt;Team Fortress 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#more-gcp&quot;&gt;More GCP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;qwiklabs&quot;&gt;&lt;a href=&quot;#qwiklabs&quot; aria-label=&quot;qwiklabs permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Qwiklabs&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/gatsbylumen/static/28b2e862050f908576791a4aa9bec590/92537/qwiklabs1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 36.883802816901415%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAHABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAIDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd6sJA//xAAXEAADAQAAAAAAAAAAAAAAAAABEBEx/9oACAEBAAEFAjlX/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhAAAwAAAAAAAAAAAAAAAAAAABAx/9oACAEBAAY/Air/xAAaEAACAgMAAAAAAAAAAAAAAAAAIQERUZHw/9oACAEBAAE/IUQthojkf//aAAwDAQACAAMAAAAQA8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAZEAEBAQADAAAAAAAAAAAAAAABEQAxQYH/2gAIAQEAAT8Qa6onaXXTFU5Xxv/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/28b2e862050f908576791a4aa9bec590/01472/qwiklabs1.webp 240w,
+/gatsbylumen/static/28b2e862050f908576791a4aa9bec590/222bd/qwiklabs1.webp 480w,
+/gatsbylumen/static/28b2e862050f908576791a4aa9bec590/620b9/qwiklabs1.webp 960w,
+/gatsbylumen/static/28b2e862050f908576791a4aa9bec590/4dc8c/qwiklabs1.webp 1136w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/28b2e862050f908576791a4aa9bec590/3bc27/qwiklabs1.jpg 240w,
+/gatsbylumen/static/28b2e862050f908576791a4aa9bec590/98431/qwiklabs1.jpg 480w,
+/gatsbylumen/static/28b2e862050f908576791a4aa9bec590/b3ee8/qwiklabs1.jpg 960w,
+/gatsbylumen/static/28b2e862050f908576791a4aa9bec590/92537/qwiklabs1.jpg 1136w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/gatsbylumen/static/28b2e862050f908576791a4aa9bec590/b3ee8/qwiklabs1.jpg&quot;
+          alt=&quot;qwiklabs1&quot;
+          title=&quot;qwiklabs1&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+Qwiklabs is a fabulous learning platform owned by Google. The value of the resource as a reference and training tool cannot be overstated.
+I have done most of the labs and likewise completed most of the quests and highly recommend the product.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://google.qwiklabs.com/public_profiles/3f6b9e3c-a025-41cd-8bbd-1807a27e9987&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Qwiklabs&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;moving-apps-to-gcp&quot;&gt;&lt;a href=&quot;#moving-apps-to-gcp&quot; aria-label=&quot;moving apps to gcp permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Moving Apps To GCP&lt;/h2&gt;
+&lt;p&gt;I have a number of old legacy apps built with Java and Adobe Flex.
+These have been moved to run on a compute engine instance on GCP.
+The next phases will move some of the applications to the app engine nd then cloud run.
+Included is an image and link to a scrabble game I built 10 years ago running on Tomcat servlet with Adobe Flex for the client.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 537px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/gatsbylumen/static/aaa09e5a310dd36b06b3507518d5d63c/02e10/scrabble.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.97020484171323%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAdWqHEQLDT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARJBAgMR/9oACAEBAAEFAqHwkXlsi//EABcRAQADAAAAAAAAAAAAAAAAAAEDEBH/2gAIAQMBAT8BjdK//8QAFxEAAwEAAAAAAAAAAAAAAAAAAQIQEf/aAAgBAgEBPwFhk//EABkQAAEFAAAAAAAAAAAAAAAAAAABICExQf/aAAgBAQAGPwKzSVZ//8QAGhABAAMAAwAAAAAAAAAAAAAAAQARITFBsf/aAAgBAQABPyFeyqW2Qr+iwq7HgUbCo3dyf//aAAwDAQACAAMAAAAQXA//xAAXEQADAQAAAAAAAAAAAAAAAAAAASHw/9oACAEDAQE/EKxcz//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAgEBPxCyMf/EAB0QAQACAwADAQAAAAAAAAAAAAEAESExYaGxwdH/2gAIAQEAAT8QzhdKpY4Oy6pq/wA74mtB4LOU6lIhS6x3ERaZsDrXrkNvMFgZv7P/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/aaa09e5a310dd36b06b3507518d5d63c/01472/scrabble.webp 240w,
+/gatsbylumen/static/aaa09e5a310dd36b06b3507518d5d63c/222bd/scrabble.webp 480w,
+/gatsbylumen/static/aaa09e5a310dd36b06b3507518d5d63c/81fec/scrabble.webp 537w&quot;
+          sizes=&quot;(max-width: 537px) 100vw, 537px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/aaa09e5a310dd36b06b3507518d5d63c/3bc27/scrabble.jpg 240w,
+/gatsbylumen/static/aaa09e5a310dd36b06b3507518d5d63c/98431/scrabble.jpg 480w,
+/gatsbylumen/static/aaa09e5a310dd36b06b3507518d5d63c/02e10/scrabble.jpg 537w&quot;
+          sizes=&quot;(max-width: 537px) 100vw, 537px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/gatsbylumen/static/aaa09e5a310dd36b06b3507518d5d63c/02e10/scrabble.jpg&quot;
+          alt=&quot;scrabble&quot;
+          title=&quot;scrabble&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://104.199.127.172/flex/TomcatScrabble.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Scrabble Game&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;gsuite-proof-of-concept-app&quot;&gt;&lt;a href=&quot;#gsuite-proof-of-concept-app&quot; aria-label=&quot;gsuite proof of concept app permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Gsuite Proof Of Concept App&lt;/h2&gt;
+&lt;p&gt;I am working with a local psychologist who is a world authority on helping individuals recovering from substances and other PTSD related conditions. We are converting a paper workflow to a prototype progress tracking app. Using the latest metrics the first application is being modelled and built on Gsuite.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 444px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/gatsbylumen/static/b72849d36fba742c9aa01ee90f7f0952/93c72/solidground.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 138.96396396396395%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHtUkFjIZbBjD//xAAbEAACAQUAAAAAAAAAAAAAAAAAARECECAhMf/aAAgBAQABBQKls1Z9EQRj/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGhAAAAcAAAAAAAAAAAAAAAAAAREgIjAxgf/aAAgBAQAGPwJwFqKg/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITEQUXFh/9oACAEBAAE/IULT4tPXCywbmek10Eva4l/kCiIXrgn/2gAMAwEAAgADAAAAEAPDMP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABURAQEAAAAAAAAAAAAAAAAAACAh/9oACAECAQE/EIP/xAAfEAEAAgIBBQEAAAAAAAAAAAABABEhMZFBUWFxgbH/2gAIAQEAAT8Q/UBXBBtZyYI6RlNGxsINdvwmWaL0Rrm71nZeMxC58Sww4hRoD0TIn//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/b72849d36fba742c9aa01ee90f7f0952/01472/solidground.webp 240w,
+/gatsbylumen/static/b72849d36fba742c9aa01ee90f7f0952/cf356/solidground.webp 444w&quot;
+          sizes=&quot;(max-width: 444px) 100vw, 444px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/b72849d36fba742c9aa01ee90f7f0952/3bc27/solidground.jpg 240w,
+/gatsbylumen/static/b72849d36fba742c9aa01ee90f7f0952/93c72/solidground.jpg 444w&quot;
+          sizes=&quot;(max-width: 444px) 100vw, 444px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/gatsbylumen/static/b72849d36fba742c9aa01ee90f7f0952/93c72/solidground.jpg&quot;
+          alt=&quot;solidground&quot;
+          title=&quot;solidground&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;team-fortress-2&quot;&gt;&lt;a href=&quot;#team-fortress-2&quot; aria-label=&quot;team fortress 2 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Team Fortress 2&lt;/h2&gt;
+&lt;p&gt;My friend loves to play this game and beats me decisively.
+So that we can play in our own environment without other players jumping in I install and start servers on GCP when needed.  My first builds were on Ubuntu 16 VMs on the compute engine running full installs from STEAM.
+My latest builds use DOCKER images pulled from github.
+&lt;a href=&quot;https://github.com/OpenSourceLAN/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;repo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;From Wikipedia, the free encyclopedia&lt;/p&gt;
+&lt;p&gt;Team Fortress 2 (TF2) is a multiplayer first-person shooter game developed and published by Valve Corporation. It is the sequel to the 1996 mod Team Fortress for Quake and its 1999 remake, Team Fortress Classic. It was released as part of the video game bundle The Orange Box in October 2007 for Microsoft Windows and the Xbox 360.[1] A PlayStation 3 version followed in December 2007.[2] The game was released for Windows in April 2008 and was updated to support OS X in June 2010 and Linux in February 2013. It is distributed online through Valve’s digital retailer Steam, with retail distribution by Electronic Arts.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 497px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/gatsbylumen/static/e3e0cac5d772ca6b94c9bcd7389e9758/99ec8/tf2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 111.26760563380283%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAWABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIGAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAeeGjocy0yYoc0K//8QAGxAAAgMAAwAAAAAAAAAAAAAAAAEDERIQITH/2gAIAQEAAQUCmkaF4ZRlFIs74//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAwEBPwFnf//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAgEBPwEjf//EABwQAAEDBQAAAAAAAAAAAAAAAAEAAjEQICEyUf/aAAgBAQAGPwIsJxxyhbUhQLP/xAAcEAACAgIDAAAAAAAAAAAAAAAAARExIVGBkfH/2gAIAQEAAT8hmM2ZmxUsmnaZKdxJW5FrdHmDaXRwFR//2gAMAwEAAgADAAAAEKQPAP/EABcRAAMBAAAAAAAAAAAAAAAAAAAQEVH/2gAIAQMBAT8QMY//xAAXEQADAQAAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/EGNX/8QAHRABAAICAwEBAAAAAAAAAAAAAQARMVEhQWGx8f/aAAgBAQABPxCibThVZCVzXBDeyoV53Mu/pL+RTG17WB73aFn5yAoMtQd4vkF+T//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/e3e0cac5d772ca6b94c9bcd7389e9758/01472/tf2.webp 240w,
+/gatsbylumen/static/e3e0cac5d772ca6b94c9bcd7389e9758/222bd/tf2.webp 480w,
+/gatsbylumen/static/e3e0cac5d772ca6b94c9bcd7389e9758/aa2ee/tf2.webp 497w&quot;
+          sizes=&quot;(max-width: 497px) 100vw, 497px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/e3e0cac5d772ca6b94c9bcd7389e9758/3bc27/tf2.jpg 240w,
+/gatsbylumen/static/e3e0cac5d772ca6b94c9bcd7389e9758/98431/tf2.jpg 480w,
+/gatsbylumen/static/e3e0cac5d772ca6b94c9bcd7389e9758/99ec8/tf2.jpg 497w&quot;
+          sizes=&quot;(max-width: 497px) 100vw, 497px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/gatsbylumen/static/e3e0cac5d772ca6b94c9bcd7389e9758/99ec8/tf2.jpg&quot;
+          alt=&quot;tf2&quot;
+          title=&quot;tf2&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;more-gcp&quot;&gt;&lt;a href=&quot;#more-gcp&quot; aria-label=&quot;more gcp permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;More GCP&lt;/h2&gt;
+&lt;p&gt;Among other things I am also developing google assistant apps and working on google colaboratory jupyter notebooks. More to follow.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Urban Aboriginal Ministry]]></title><description><![CDATA[ The Urban Aboriginal Ministry is a ministry of St. Mary Magdelene Anglican Church and supports Prayer Circles, Four Annual Feasts: Easter, Thanksgiving, Winterfest, and Christmas, Traditional as well as Ceremonies and Pastoral Care.]]></description><link>https://michelleblond.github.io/gatsbylumen/posts/urban-aboriginal-ministry/</link><guid isPermaLink="false">https://michelleblond.github.io/gatsbylumen/posts/urban-aboriginal-ministry/</guid><pubDate>Thu, 07 Nov 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;The  Urban Aboriginal Ministry is a ministry of the Anglican Parish of St. Mary Magdalene in the Greater Vancouver Area to the First Nations people and their loved ones. The Ministry provide medicine wheel circles with smudging for all occasions (on request) and cultural funerals and weddings. It hosts Annual Feasts on Christmas, Easter and Thanksgiving. They also provide cultural gatherings where they teach arts &amp;#x26; crafts such as drum making to restore the traditional ancestral teachings. The UAM responds to calls for practical needs such as food, furniture, clothing and transportation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#digital-outreach&quot;&gt;Digital Outreach&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#executive-advisory-board-functions&quot;&gt;Executive Advisory Board Functions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#sumdging-ceremony&quot;&gt;Smudging Ceremony&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#winter-feast&quot;&gt;Winter Feast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;digital-outreach&quot;&gt;&lt;a href=&quot;#digital-outreach&quot; aria-label=&quot;digital outreach permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Digital Outreach&lt;/h2&gt;
+&lt;p&gt;My principal role as the digital communications officer is to build and maintain the new website.
+It has been set up on Bluehost for now and runs on a wordpress blog.  The site is a collective
+project. Images and videos are gathered by myself and others and posted by myself.  We are looking for content moderators.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://urbanaboriginalministry.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Urban Aboriginal Ministry Site&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;executive-advisory-board-functions&quot;&gt;&lt;a href=&quot;#executive-advisory-board-functions&quot; aria-label=&quot;executive advisory board functions permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Executive Advisory Board Functions&lt;/h2&gt;
+&lt;p&gt;We meet as an advisory board and review all of the activities of the ministry once per month.
+I report on my role as the website administrator and provide back up for other board members.&lt;/p&gt;
+&lt;h2 id=&quot;smudging-ceremony&quot;&gt;&lt;a href=&quot;#smudging-ceremony&quot; aria-label=&quot;smudging ceremony permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Smudging Ceremony&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 600px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/gatsbylumen/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB1shkdxLK/8QAGRABAQEAAwAAAAAAAAAAAAAAAQIAAxES/9oACAEBAAEFAl60V6yyrTjkokrf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EABgQAQADAQAAAAAAAAAAAAAAAAEAECEx/9oACAEBAAY/AhJvLxr/xAAbEAEBAAEFAAAAAAAAAAAAAAABABEhQVGRsf/aAAgBAQABPyFtoZlwSp9sI1e7AUCXF//aAAwDAQACAAMAAAAQ0M//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxBD/8QAHBABAAIDAAMAAAAAAAAAAAAAAQARITFBUWGx/9oACAEBAAE/ELQ2V4+xE+xfXksCbThiLH5laiooHELv3xc//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/88bb62809a91d62e13d6606243256147/01472/mainbanner.webp 240w,
+/gatsbylumen/static/88bb62809a91d62e13d6606243256147/222bd/mainbanner.webp 480w,
+/gatsbylumen/static/88bb62809a91d62e13d6606243256147/965c5/mainbanner.webp 600w&quot;
+          sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/88bb62809a91d62e13d6606243256147/3bc27/mainbanner.jpg 240w,
+/gatsbylumen/static/88bb62809a91d62e13d6606243256147/98431/mainbanner.jpg 480w,
+/gatsbylumen/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg 600w&quot;
+          sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/gatsbylumen/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg&quot;
+          alt=&quot;mainbanner.jpg&quot;
+          title=&quot;mainbanner.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;winter-feast&quot;&gt;&lt;a href=&quot;#winter-feast&quot; aria-label=&quot;winter feast permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Winter Feast&lt;/h2&gt;
+&lt;p&gt;Friday, November 22nd from 6-9:00 pm&lt;/p&gt;
+&lt;p&gt;At St. Mary Magdalene
+2950 Laurel Street at West 14th Avenue
+Vancouver, BC&lt;/p&gt;
+&lt;p&gt;At this fundraising event for the UAM, everyone, indigenous and settler alike, share in a feast that features traditional food such as moose stew and bannock. A silent auction offers something for everyone, from cozy woollen Cowichan handknitting to beautiful hand carved silver bracelets.&lt;/p&gt;
+&lt;p&gt;Tickets are $20.00 and are available from the Reverend  Vivian Seegers, e-mail: vivianseegers@hotmail.com or call 604-816-3348&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 612px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 129.41176470588235%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMEAgEF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAfcnojSo4FpbssscF//EABwQAAEEAwEAAAAAAAAAAAAAAAECAxIxADJBEf/aAAgBAQABBQI2tcQ2fU9jEt6m101r04M//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAHBAAAQMFAAAAAAAAAAAAAAAAAQACERAhMEGB/9oACAEBAAY/AkYu4aU0M8wf/8QAHhAAAwEAAQUBAAAAAAAAAAAAAAERITEQQVFhgZH/2gAIAQEAAT8h1yX6RuLWr2EfW7o/VDZ6HMfvB79CUvcl3fPQifKFSWKH/9oADAMBAAIAAwAAABAUMzP/xAAYEQEBAAMAAAAAAAAAAAAAAAABABARMf/aAAgBAwEBPxBdRycf/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAxEf/aAAgBAgEBPxAOzsbO3//EAB0QAQEAAwEAAwEAAAAAAAAAAAERACExQVFhcYH/2gAIAQEAAT8QCsKHNMLRI7Y93+OSlRqhEH6eZfsPmbwYPIeu0X9xlrxGJADfswwZt6m6YloW+fzINwuXIO/TFYAvAmf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/01472/winterfestposter2019.webp 240w,
+/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/222bd/winterfestposter2019.webp 480w,
+/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/09766/winterfestposter2019.webp 612w&quot;
+          sizes=&quot;(max-width: 612px) 100vw, 612px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/3bc27/winterfestposter2019.jpg 240w,
+/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/98431/winterfestposter2019.jpg 480w,
+/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg 612w&quot;
+          sizes=&quot;(max-width: 612px) 100vw, 612px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg&quot;
+          alt=&quot;winterfeast&quot;
+          title=&quot;winterfeast&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Static Site Portfolio]]></title><description><![CDATA[This portfolio showcases projects I have worked on. Built with Gatsby this sub site is served up with static files from a Google Cloud Platform storage bucket. Gatsby is a great starting place for learning React for new and seasoned developers alike and it is a blast to work with. ]]></description><link>https://michelleblond.github.io/gatsbylumen/posts/static-blog/</link><guid isPermaLink="false">https://michelleblond.github.io/gatsbylumen/posts/static-blog/</guid><pubDate>Tue, 29 Oct 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;This site and the content are built with Gatsby a React-based, GraphQL powered, static site generator. … It uses powerful preconfiguration to build a website that uses only static files for incredibly fast page loads, service workers, code splitting, server-side rendering, intelligent image loading, asset optimization, and data prefetching.&lt;/p&gt;
+&lt;p&gt; My Projects will be listed here as posts.  In the mean time see my old portfolio at &lt;a href=&quot;http://oldblog.hypersonicdrones.net&quot; title=&quot;A very detailed static blog originally built with wordpress.&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Old Portfolio Site&lt;/a&gt;  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Humane Typography in the Digital Age]]></title><description><![CDATA[ This is a sample post from the orignal starter blog found on https://www.gatsbyjs.org . An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://michelleblond.github.io/gatsbylumen/posts/humane-typography-in-the-digital-age/</link><guid isPermaLink="false">https://michelleblond.github.io/gatsbylumen/posts/humane-typography-in-the-digital-age/</guid><pubDate>Sat, 19 Aug 2017 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#the-first-transition&quot;&gt;The first transition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#the-digital-age&quot;&gt;The digital age&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot;&gt;Loss of humanity through transitions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#chasing-perfection&quot;&gt;Chasing perfection&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Post from a starter project &lt;a href=&quot;https://www.gatsbyjs.org&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Gatsbyjs.org&lt;/a&gt; on &lt;a href=&quot;https://github.com/alxshelepenok/gatsby-starter-lumen&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;github&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;An  Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.&lt;/p&gt;
+&lt;p&gt;The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.&lt;/p&gt;
+&lt;p&gt;But the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.&lt;/p&gt;
+&lt;h2 id=&quot;the-first-transition&quot;&gt;&lt;a href=&quot;#the-first-transition&quot; aria-label=&quot;the first transition permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The first transition&lt;/h2&gt;
+&lt;p&gt;A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.&lt;/p&gt;
+&lt;p&gt;The first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAG9hSrMxf/EABoQAAICAwAAAAAAAAAAAAAAAAACARIQETH/2gAIAQEAAQUC4XYi2NqLZo//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARFBAhBx/9oACAEBAAY/AlqhSWSsoXD/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhQTFRYZH/2gAIAQEAAT8hbFV3ACrcETOK6tmKVsdRp+YPKwn/2gAMAwEAAgADAAAAEH/P/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EKyP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QJ//EABoQAQEAAgMAAAAAAAAAAAAAAAERACExQVH/2gAIAQEAAT8QUSVSDzkUkLU7uPEbsWpO9e3AkarliEANePcMDTSBSa5uf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/01472/42-line-bible.webp 240w,
+/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/222bd/42-line-bible.webp 480w,
+/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/0cbce/42-line-bible.webp 800w&quot;
+          sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/3bc27/42-line-bible.jpg 240w,
+/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/98431/42-line-bible.jpg 480w,
+/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg 800w&quot;
+          sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg&quot;
+          alt=&quot;42-line-bible.jpg&quot;
+          title=&quot;42-line-bible.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The 42–Line Bible, printed by Gutenberg.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;But, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.&lt;/p&gt;
+&lt;h2 id=&quot;the-digital-age&quot;&gt;&lt;a href=&quot;#the-digital-age&quot; aria-label=&quot;the digital age permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The digital age&lt;/h2&gt;
+&lt;p&gt;The first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.&lt;/p&gt;
+&lt;p&gt;— Massimo Vignelli&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Typography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.&lt;/p&gt;
+&lt;h2 id=&quot;loss-of-humanity-through-transitions&quot;&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot; aria-label=&quot;loss of humanity through transitions permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Loss of humanity through transitions&lt;/h2&gt;
+&lt;p&gt;Each transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;blockquote&gt;
+		&lt;p&gt;Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.&lt;/p&gt;
+		&lt;footer&gt;
+			&lt;cite&gt;— Josef Mueller-Brockmann&lt;/cite&gt;
+		&lt;/footer&gt;
+	&lt;/blockquote&gt;
+&lt;/figure&gt;
+&lt;p&gt;Typefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.&lt;/p&gt;
+&lt;p&gt;— Eric Gill&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/313cc/type-through-time.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 20%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABtoJaRR//xAAWEAEBAQAAAAAAAAAAAAAAAAAAAjH/2gAIAQEAAQUClOv/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEn/8QAFhAAAwAAAAAAAAAAAAAAAAAAAAEQ/9oACAEBAAY/Ahz/xAAYEAACAwAAAAAAAAAAAAAAAAABIQAQUf/aAAgBAQABPyEi2Zsr/9oADAMBAAIAAwAAABAID//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAgEBPxCD/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARQSEx/9oACAEBAAE/EAerusaDZp1lz//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/01472/type-through-time.webp 240w,
+/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/222bd/type-through-time.webp 480w,
+/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/620b9/type-through-time.webp 960w,
+/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/6db13/type-through-time.webp 1250w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/3bc27/type-through-time.jpg 240w,
+/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/98431/type-through-time.jpg 480w,
+/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/b3ee8/type-through-time.jpg 960w,
+/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/313cc/type-through-time.jpg 1250w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/b3ee8/type-through-time.jpg&quot;
+          alt=&quot;type-through-time.jpg&quot;
+          title=&quot;type-through-time.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Type through 5 centuries.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.&lt;/p&gt;
+&lt;h2 id=&quot;chasing-perfection&quot;&gt;&lt;a href=&quot;#chasing-perfection&quot; aria-label=&quot;chasing perfection permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Chasing perfection&lt;/h2&gt;
+&lt;p&gt;Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Originally published by &lt;a href=&quot;http://matejlatin.co.uk/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Matej Latin&lt;/a&gt; on &lt;a href=&quot;https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Medium&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
