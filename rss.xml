@@ -1,4 +1,232 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Portfolio of Michel LeBlond]]></title><description><![CDATA[Portfolio of Michel LeBlond]]></description><link>https://michelleblond.github.io/gatsbylumen</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Nov 2019 00:57:57 GMT</lastBuildDate><item><title><![CDATA[Urban Aboriginal Ministry]]></title><description><![CDATA[ The Urban Aboriginal Ministry is a ministry of St. Mary Magdelene Anglican Church and supports Prayer Circles, Four Annual Feasts: Easter, Thanksgiving, Winterfest, and Christmas, Traditional as well as Ceremonies and Pastoral Care.]]></description><link>https://michelleblond.github.io/gatsbylumen/posts/urban-aboriginal-ministry/</link><guid isPermaLink="false">https://michelleblond.github.io/gatsbylumen/posts/urban-aboriginal-ministry/</guid><pubDate>Thu, 07 Nov 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;The  Urban Aboriginal Ministry is a ministry of the Anglican Parish of St. Mary Magdalene in the Greater Vancouver Area to the First Nations people and their loved ones. The Ministry provide medicine wheel circles with smudging for all occasions (on request) and cultural funerals and weddings. It hosts Annual Feasts on Christmas, Easter and Thanksgiving. They also provide cultural gatherings where they teach arts &amp;#x26; crafts such as drum making to restore the traditional ancestral teachings. The UAM responds to calls for practical needs such as food, furniture, clothing and transportation.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Portfolio of Michel LeBlond]]></title><description><![CDATA[Portfolio of Michel LeBlond]]></description><link>https://michelleblond.github.io/gatsbylumen</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 09 Nov 2019 02:20:49 GMT</lastBuildDate><item><title><![CDATA[Google Cloud Platform]]></title><description><![CDATA[ Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube.]]></description><link>https://michelleblond.github.io/gatsbylumen/posts/google-cloud-platform/</link><guid isPermaLink="false">https://michelleblond.github.io/gatsbylumen/posts/google-cloud-platform/</guid><pubDate>Fri, 08 Nov 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 502px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5f0b73c2a92dfa469705d74cf9960244/6f105/gcp.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 98.80478087649401%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAfTssRmalckEgf/EABsQAAIDAAMAAAAAAAAAAAAAAAECABARFCEi/9oACAEBAAEFAmY6fM5Ciupi0K//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAWEQADAAAAAAAAAAAAAAAAAAABIDH/2gAIAQIBAT8BET//xAAcEAABAwUAAAAAAAAAAAAAAAABABIxEBEgQVH/2gAIAQEABj8CJcb8TqSVtRh//8QAHhAAAgEDBQAAAAAAAAAAAAAAAAERITGREEFRYfH/2gAIAQEAAT8hQpDaNCUuN+x0TnKHEh4CZZMG7G0//9oADAMBAAIAAwAAABBPJ7z/xAAWEQEBAQAAAAAAAAAAAAAAAAABESD/2gAIAQMBAT8QVWuP/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREEH/2gAIAQIBAT8QSIinM//EAB4QAQACAgEFAAAAAAAAAAAAAAERIQBRMRBhgZGx/9oACAEBAAE/ECEK1pXZq53hQxAKJuUV4xFRPNJ8xS7eBwi2o2ZMEn0uFzbcZWWanp//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/5f0b73c2a92dfa469705d74cf9960244/01472/gcp.webp 240w,
+/static/5f0b73c2a92dfa469705d74cf9960244/222bd/gcp.webp 480w,
+/static/5f0b73c2a92dfa469705d74cf9960244/0bf37/gcp.webp 502w&quot;
+          sizes=&quot;(max-width: 502px) 100vw, 502px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/5f0b73c2a92dfa469705d74cf9960244/3bc27/gcp.jpg 240w,
+/static/5f0b73c2a92dfa469705d74cf9960244/98431/gcp.jpg 480w,
+/static/5f0b73c2a92dfa469705d74cf9960244/6f105/gcp.jpg 502w&quot;
+          sizes=&quot;(max-width: 502px) 100vw, 502px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/5f0b73c2a92dfa469705d74cf9960244/6f105/gcp.jpg&quot;
+          alt=&quot;gcp&quot;
+          title=&quot;gcp&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Much of my experience as a developer has involved moving code and installing software on actual machines located either locally or on racks in server farms.  GCP offers a completely different way of doing things. All of the hardware is provided by Google. Machines are abstracted into services that are accessed via a web interface or command line prompt.  I have studied GCP in depth and launched many projects. Included is a sampling that will increase in size as items are added.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#qwiklabs&quot;&gt;Qwiklabs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#moving-apps-to-gcp&quot;&gt;Moving Apps To GCP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#gsuite-proof-of-concept-app&quot;&gt;Gsuite Proof Of Concept App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#team-fortress-2&quot;&gt;Team Fortress 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#more-gcp&quot;&gt;More GCP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;qwiklabs&quot;&gt;&lt;a href=&quot;#qwiklabs&quot; aria-label=&quot;qwiklabs permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Qwiklabs&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/28b2e862050f908576791a4aa9bec590/92537/qwiklabs1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 36.883802816901415%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAHABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAIDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd6sJA//xAAXEAADAQAAAAAAAAAAAAAAAAABEBEx/9oACAEBAAEFAjlX/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhAAAwAAAAAAAAAAAAAAAAAAABAx/9oACAEBAAY/Air/xAAaEAACAgMAAAAAAAAAAAAAAAAAIQERUZHw/9oACAEBAAE/IUQthojkf//aAAwDAQACAAMAAAAQA8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAZEAEBAQADAAAAAAAAAAAAAAABEQAxQYH/2gAIAQEAAT8Qa6onaXXTFU5Xxv/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/28b2e862050f908576791a4aa9bec590/01472/qwiklabs1.webp 240w,
+/static/28b2e862050f908576791a4aa9bec590/222bd/qwiklabs1.webp 480w,
+/static/28b2e862050f908576791a4aa9bec590/620b9/qwiklabs1.webp 960w,
+/static/28b2e862050f908576791a4aa9bec590/4dc8c/qwiklabs1.webp 1136w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/28b2e862050f908576791a4aa9bec590/3bc27/qwiklabs1.jpg 240w,
+/static/28b2e862050f908576791a4aa9bec590/98431/qwiklabs1.jpg 480w,
+/static/28b2e862050f908576791a4aa9bec590/b3ee8/qwiklabs1.jpg 960w,
+/static/28b2e862050f908576791a4aa9bec590/92537/qwiklabs1.jpg 1136w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/28b2e862050f908576791a4aa9bec590/b3ee8/qwiklabs1.jpg&quot;
+          alt=&quot;qwiklabs1&quot;
+          title=&quot;qwiklabs1&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+Qwiklabs is a fabulous learning platform owned by Google. The value of the resource as a reference and training tool cannot be overstated.
+I have done most of the labs and likewise completed most of the quests and highly recommend the product.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://google.qwiklabs.com/public_profiles/3f6b9e3c-a025-41cd-8bbd-1807a27e9987&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Qwiklabs&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;moving-apps-to-gcp&quot;&gt;&lt;a href=&quot;#moving-apps-to-gcp&quot; aria-label=&quot;moving apps to gcp permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Moving Apps To GCP&lt;/h2&gt;
+&lt;p&gt;I have a number of old legacy apps built with Java and Adobe Flex.
+These have been moved to run on a compute engine instance on GCP.
+The next phases will move some of the applications to the app engine nd then cloud run.
+Included is an image and link to a scrabble game I built 10 years ago running on Tomcat servlet with Adobe Flex for the client.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 537px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/aaa09e5a310dd36b06b3507518d5d63c/02e10/scrabble.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.97020484171323%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAdWqHEQLDT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARJBAgMR/9oACAEBAAEFAqHwkXlsi//EABcRAQADAAAAAAAAAAAAAAAAAAEDEBH/2gAIAQMBAT8BjdK//8QAFxEAAwEAAAAAAAAAAAAAAAAAAQIQEf/aAAgBAgEBPwFhk//EABkQAAEFAAAAAAAAAAAAAAAAAAABICExQf/aAAgBAQAGPwKzSVZ//8QAGhABAAMAAwAAAAAAAAAAAAAAAQARITFBsf/aAAgBAQABPyFeyqW2Qr+iwq7HgUbCo3dyf//aAAwDAQACAAMAAAAQXA//xAAXEQADAQAAAAAAAAAAAAAAAAAAASHw/9oACAEDAQE/EKxcz//EABYRAQEBAAAAAAAAAAAAAAAAAAARAf/aAAgBAgEBPxCyMf/EAB0QAQACAwADAQAAAAAAAAAAAAEAESExYaGxwdH/2gAIAQEAAT8QzhdKpY4Oy6pq/wA74mtB4LOU6lIhS6x3ERaZsDrXrkNvMFgZv7P/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/aaa09e5a310dd36b06b3507518d5d63c/01472/scrabble.webp 240w,
+/static/aaa09e5a310dd36b06b3507518d5d63c/222bd/scrabble.webp 480w,
+/static/aaa09e5a310dd36b06b3507518d5d63c/81fec/scrabble.webp 537w&quot;
+          sizes=&quot;(max-width: 537px) 100vw, 537px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/aaa09e5a310dd36b06b3507518d5d63c/3bc27/scrabble.jpg 240w,
+/static/aaa09e5a310dd36b06b3507518d5d63c/98431/scrabble.jpg 480w,
+/static/aaa09e5a310dd36b06b3507518d5d63c/02e10/scrabble.jpg 537w&quot;
+          sizes=&quot;(max-width: 537px) 100vw, 537px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/aaa09e5a310dd36b06b3507518d5d63c/02e10/scrabble.jpg&quot;
+          alt=&quot;scrabble&quot;
+          title=&quot;scrabble&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://104.199.127.172/flex/TomcatScrabble.html&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Scrabble Game&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;gsuite-proof-of-concept-app&quot;&gt;&lt;a href=&quot;#gsuite-proof-of-concept-app&quot; aria-label=&quot;gsuite proof of concept app permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Gsuite Proof Of Concept App&lt;/h2&gt;
+&lt;p&gt;I am working with a local psychologist who is a world authority on helping individuals recovering from substances and other PTSD related conditions. We are converting a paper workflow to a prototype progress tracking app. Using the latest metrics the first application is being modelled and built on Gsuite.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 444px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b72849d36fba742c9aa01ee90f7f0952/93c72/solidground.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 138.96396396396395%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHtUkFjIZbBjD//xAAbEAACAQUAAAAAAAAAAAAAAAAAARECECAhMf/aAAgBAQABBQKls1Z9EQRj/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGhAAAAcAAAAAAAAAAAAAAAAAAREgIjAxgf/aAAgBAQAGPwJwFqKg/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITEQUXFh/9oACAEBAAE/IULT4tPXCywbmek10Eva4l/kCiIXrgn/2gAMAwEAAgADAAAAEAPDMP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABURAQEAAAAAAAAAAAAAAAAAACAh/9oACAECAQE/EIP/xAAfEAEAAgIBBQEAAAAAAAAAAAABABEhMZFBUWFxgbH/2gAIAQEAAT8Q/UBXBBtZyYI6RlNGxsINdvwmWaL0Rrm71nZeMxC58Sww4hRoD0TIn//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/b72849d36fba742c9aa01ee90f7f0952/01472/solidground.webp 240w,
+/static/b72849d36fba742c9aa01ee90f7f0952/cf356/solidground.webp 444w&quot;
+          sizes=&quot;(max-width: 444px) 100vw, 444px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/b72849d36fba742c9aa01ee90f7f0952/3bc27/solidground.jpg 240w,
+/static/b72849d36fba742c9aa01ee90f7f0952/93c72/solidground.jpg 444w&quot;
+          sizes=&quot;(max-width: 444px) 100vw, 444px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/b72849d36fba742c9aa01ee90f7f0952/93c72/solidground.jpg&quot;
+          alt=&quot;solidground&quot;
+          title=&quot;solidground&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;team-fortress-2&quot;&gt;&lt;a href=&quot;#team-fortress-2&quot; aria-label=&quot;team fortress 2 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Team Fortress 2&lt;/h2&gt;
+&lt;p&gt;My friend loves to play this game and beats me decisively.
+So that we can play in our own environment without other players jumping in I install and start servers on GCP when needed.  My first builds were on Ubuntu 16 VMs on the compute engine running full installs from STEAM.
+My latest builds use DOCKER images pulled from github.
+&lt;a href=&quot;https://github.com/OpenSourceLAN/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;repo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;From Wikipedia, the free encyclopedia&lt;/p&gt;
+&lt;p&gt;Team Fortress 2 (TF2) is a multiplayer first-person shooter game developed and published by Valve Corporation. It is the sequel to the 1996 mod Team Fortress for Quake and its 1999 remake, Team Fortress Classic. It was released as part of the video game bundle The Orange Box in October 2007 for Microsoft Windows and the Xbox 360.[1] A PlayStation 3 version followed in December 2007.[2] The game was released for Windows in April 2008 and was updated to support OS X in June 2010 and Linux in February 2013. It is distributed online through Valve’s digital retailer Steam, with retail distribution by Electronic Arts.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 497px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e3e0cac5d772ca6b94c9bcd7389e9758/99ec8/tf2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 111.26760563380283%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAWABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIGAQP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAeeGjocy0yYoc0K//8QAGxAAAgMAAwAAAAAAAAAAAAAAAAEDERIQITH/2gAIAQEAAQUCmkaF4ZRlFIs74//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAwEBPwFnf//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAgEBPwEjf//EABwQAAEDBQAAAAAAAAAAAAAAAAEAAjEQICEyUf/aAAgBAQAGPwIsJxxyhbUhQLP/xAAcEAACAgIDAAAAAAAAAAAAAAAAARExIVGBkfH/2gAIAQEAAT8hmM2ZmxUsmnaZKdxJW5FrdHmDaXRwFR//2gAMAwEAAgADAAAAEKQPAP/EABcRAAMBAAAAAAAAAAAAAAAAAAAQEVH/2gAIAQMBAT8QMY//xAAXEQADAQAAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/EGNX/8QAHRABAAICAwEBAAAAAAAAAAAAAQARMVEhQWGx8f/aAAgBAQABPxCibThVZCVzXBDeyoV53Mu/pL+RTG17WB73aFn5yAoMtQd4vkF+T//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/e3e0cac5d772ca6b94c9bcd7389e9758/01472/tf2.webp 240w,
+/static/e3e0cac5d772ca6b94c9bcd7389e9758/222bd/tf2.webp 480w,
+/static/e3e0cac5d772ca6b94c9bcd7389e9758/aa2ee/tf2.webp 497w&quot;
+          sizes=&quot;(max-width: 497px) 100vw, 497px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/e3e0cac5d772ca6b94c9bcd7389e9758/3bc27/tf2.jpg 240w,
+/static/e3e0cac5d772ca6b94c9bcd7389e9758/98431/tf2.jpg 480w,
+/static/e3e0cac5d772ca6b94c9bcd7389e9758/99ec8/tf2.jpg 497w&quot;
+          sizes=&quot;(max-width: 497px) 100vw, 497px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/e3e0cac5d772ca6b94c9bcd7389e9758/99ec8/tf2.jpg&quot;
+          alt=&quot;tf2&quot;
+          title=&quot;tf2&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;more-gcp&quot;&gt;&lt;a href=&quot;#more-gcp&quot; aria-label=&quot;more gcp permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;More GCP&lt;/h2&gt;
+&lt;p&gt;Among other things I am also developing google assistant apps and working on google colaboratory jupyter notebooks. More to follow.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Urban Aboriginal Ministry]]></title><description><![CDATA[ The Urban Aboriginal Ministry is a ministry of St. Mary Magdelene Anglican Church and supports Prayer Circles, Four Annual Feasts: Easter, Thanksgiving, Winterfest, and Christmas, Traditional as well as Ceremonies and Pastoral Care.]]></description><link>https://michelleblond.github.io/gatsbylumen/posts/urban-aboriginal-ministry/</link><guid isPermaLink="false">https://michelleblond.github.io/gatsbylumen/posts/urban-aboriginal-ministry/</guid><pubDate>Thu, 07 Nov 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;The  Urban Aboriginal Ministry is a ministry of the Anglican Parish of St. Mary Magdalene in the Greater Vancouver Area to the First Nations people and their loved ones. The Ministry provide medicine wheel circles with smudging for all occasions (on request) and cultural funerals and weddings. It hosts Annual Feasts on Christmas, Easter and Thanksgiving. They also provide cultural gatherings where they teach arts &amp;#x26; crafts such as drum making to restore the traditional ancestral teachings. The UAM responds to calls for practical needs such as food, furniture, clothing and transportation.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#digital-outreach&quot;&gt;Digital Outreach&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#executive-advisory-board-functions&quot;&gt;Executive Advisory Board Functions&lt;/a&gt;&lt;/li&gt;
@@ -8,8 +236,8 @@
 &lt;h2 id=&quot;digital-outreach&quot;&gt;&lt;a href=&quot;#digital-outreach&quot; aria-label=&quot;digital outreach permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Digital Outreach&lt;/h2&gt;
 &lt;p&gt;My principal role as the digital communications officer is to build and maintain the new website.
 It has been set up on Bluehost for now and runs on a wordpress blog.  The site is a collective
-project. Images are gathered by others and posted by myself.  We are looking for a content moderator.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://urbanaboriginalministry.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Urban Aboriginal Ministry Site&lt;/a&gt;.*&lt;/p&gt;
+project. Images and videos are gathered by myself and others and posted by myself.  We are looking for content moderators.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://urbanaboriginalministry.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Urban Aboriginal Ministry Site&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;executive-advisory-board-functions&quot;&gt;&lt;a href=&quot;#executive-advisory-board-functions&quot; aria-label=&quot;executive advisory board functions permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Executive Advisory Board Functions&lt;/h2&gt;
 &lt;p&gt;We meet as an advisory board and review all of the activities of the ministry once per month.
 I report on my role as the website administrator and provide back up for other board members.&lt;/p&gt;
@@ -20,7 +248,7 @@ I report on my role as the website administrator and provide back up for other b
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsbylumen/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg&quot;
+    href=&quot;/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -31,22 +259,22 @@ I report on my role as the website administrator and provide back up for other b
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/gatsbylumen/static/88bb62809a91d62e13d6606243256147/01472/mainbanner.webp 240w,
-/gatsbylumen/static/88bb62809a91d62e13d6606243256147/222bd/mainbanner.webp 480w,
-/gatsbylumen/static/88bb62809a91d62e13d6606243256147/965c5/mainbanner.webp 600w&quot;
+          srcset=&quot;/static/88bb62809a91d62e13d6606243256147/01472/mainbanner.webp 240w,
+/static/88bb62809a91d62e13d6606243256147/222bd/mainbanner.webp 480w,
+/static/88bb62809a91d62e13d6606243256147/965c5/mainbanner.webp 600w&quot;
           sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/gatsbylumen/static/88bb62809a91d62e13d6606243256147/3bc27/mainbanner.jpg 240w,
-/gatsbylumen/static/88bb62809a91d62e13d6606243256147/98431/mainbanner.jpg 480w,
-/gatsbylumen/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg 600w&quot;
+          srcset=&quot;/static/88bb62809a91d62e13d6606243256147/3bc27/mainbanner.jpg 240w,
+/static/88bb62809a91d62e13d6606243256147/98431/mainbanner.jpg 480w,
+/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg 600w&quot;
           sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/gatsbylumen/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg&quot;
+          src=&quot;/static/88bb62809a91d62e13d6606243256147/82472/mainbanner.jpg&quot;
           alt=&quot;mainbanner.jpg&quot;
           title=&quot;mainbanner.jpg&quot;
           loading=&quot;lazy&quot;
@@ -67,7 +295,7 @@ Vancouver, BC&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg&quot;
+    href=&quot;/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -78,22 +306,22 @@ Vancouver, BC&lt;/p&gt;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/01472/winterfestposter2019.webp 240w,
-/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/222bd/winterfestposter2019.webp 480w,
-/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/09766/winterfestposter2019.webp 612w&quot;
+          srcset=&quot;/static/d5d2f416243ad5e2d409fe4c5d29de00/01472/winterfestposter2019.webp 240w,
+/static/d5d2f416243ad5e2d409fe4c5d29de00/222bd/winterfestposter2019.webp 480w,
+/static/d5d2f416243ad5e2d409fe4c5d29de00/09766/winterfestposter2019.webp 612w&quot;
           sizes=&quot;(max-width: 612px) 100vw, 612px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/3bc27/winterfestposter2019.jpg 240w,
-/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/98431/winterfestposter2019.jpg 480w,
-/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg 612w&quot;
+          srcset=&quot;/static/d5d2f416243ad5e2d409fe4c5d29de00/3bc27/winterfestposter2019.jpg 240w,
+/static/d5d2f416243ad5e2d409fe4c5d29de00/98431/winterfestposter2019.jpg 480w,
+/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg 612w&quot;
           sizes=&quot;(max-width: 612px) 100vw, 612px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/gatsbylumen/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg&quot;
+          src=&quot;/static/d5d2f416243ad5e2d409fe4c5d29de00/a3506/winterfestposter2019.jpg&quot;
           alt=&quot;winterfeast&quot;
           title=&quot;winterfeast&quot;
           loading=&quot;lazy&quot;
@@ -120,7 +348,7 @@ Vancouver, BC&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg&quot;
+    href=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -131,22 +359,22 @@ Vancouver, BC&lt;/p&gt;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/01472/42-line-bible.webp 240w,
-/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/222bd/42-line-bible.webp 480w,
-/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/0cbce/42-line-bible.webp 800w&quot;
+          srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/01472/42-line-bible.webp 240w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/222bd/42-line-bible.webp 480w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/0cbce/42-line-bible.webp 800w&quot;
           sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/3bc27/42-line-bible.jpg 240w,
-/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/98431/42-line-bible.jpg 480w,
-/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg 800w&quot;
+          srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/3bc27/42-line-bible.jpg 240w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/98431/42-line-bible.jpg 480w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg 800w&quot;
           sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/gatsbylumen/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg&quot;
+          src=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg&quot;
           alt=&quot;42-line-bible.jpg&quot;
           title=&quot;42-line-bible.jpg&quot;
           loading=&quot;lazy&quot;
@@ -185,7 +413,7 @@ Vancouver, BC&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/313cc/type-through-time.jpg&quot;
+    href=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/313cc/type-through-time.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -196,24 +424,24 @@ Vancouver, BC&lt;/p&gt;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/01472/type-through-time.webp 240w,
-/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/222bd/type-through-time.webp 480w,
-/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/620b9/type-through-time.webp 960w,
-/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/6db13/type-through-time.webp 1250w&quot;
+          srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/01472/type-through-time.webp 240w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/222bd/type-through-time.webp 480w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/620b9/type-through-time.webp 960w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/6db13/type-through-time.webp 1250w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/3bc27/type-through-time.jpg 240w,
-/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/98431/type-through-time.jpg 480w,
-/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/b3ee8/type-through-time.jpg 960w,
-/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/313cc/type-through-time.jpg 1250w&quot;
+          srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/3bc27/type-through-time.jpg 240w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/98431/type-through-time.jpg 480w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/b3ee8/type-through-time.jpg 960w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/313cc/type-through-time.jpg 1250w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/gatsbylumen/static/eaa988471fd2b61a1d4d313d0d9a5d23/b3ee8/type-through-time.jpg&quot;
+          src=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/b3ee8/type-through-time.jpg&quot;
           alt=&quot;type-through-time.jpg&quot;
           title=&quot;type-through-time.jpg&quot;
           loading=&quot;lazy&quot;
